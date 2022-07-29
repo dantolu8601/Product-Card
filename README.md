@@ -1,3 +1,5 @@
+live link: https://dantolu8601.github.io/Product-Card/
+
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
